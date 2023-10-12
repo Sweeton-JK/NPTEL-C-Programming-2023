@@ -19,8 +19,8 @@ int main()
         y0=y0+m*h;
         x0=x0+h;
     }
-    
-    printf("y=%.4f",y0);  
+
+    printf("y=%f",y0);  
     return 0;
 }
 
